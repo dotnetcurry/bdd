@@ -1,0 +1,4 @@
+I:\Code\DemoDotNetArticle\MathLib\MathLib\bin\Debug\MathLib.dll
+I:\Code\DemoDotNetArticle\MathLib\MathLib\bin\Debug\MathLib.pdb
+I:\Code\DemoDotNetArticle\MathLib\MathLib\obj\Debug\MathLib.dll
+I:\Code\DemoDotNetArticle\MathLib\MathLib\obj\Debug\MathLib.pdb

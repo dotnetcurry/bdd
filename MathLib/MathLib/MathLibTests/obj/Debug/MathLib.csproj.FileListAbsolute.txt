@@ -1,0 +1,9 @@
+I:\Code\DemoDotNetArticle\MathLib\MathLib\obj\Debug\MathLib.csprojResolveAssemblyReference.cache
+I:\Code\DemoDotNetArticle\MathLib\MathLib\bin\Debug\MathLib.dll.config
+I:\Code\DemoDotNetArticle\MathLib\MathLib\bin\Debug\MathLib.dll
+I:\Code\DemoDotNetArticle\MathLib\MathLib\bin\Debug\MathLib.pdb
+I:\Code\DemoDotNetArticle\MathLib\MathLib\bin\Debug\nunit.framework.dll
+I:\Code\DemoDotNetArticle\MathLib\MathLib\bin\Debug\TechTalk.SpecFlow.dll
+I:\Code\DemoDotNetArticle\MathLib\MathLib\bin\Debug\nunit.framework.xml
+I:\Code\DemoDotNetArticle\MathLib\MathLib\obj\Debug\MathLib.dll
+I:\Code\DemoDotNetArticle\MathLib\MathLib\obj\Debug\MathLib.pdb
